@@ -274,8 +274,6 @@ Examples:
         return
     
     print(f"\nFound {total_results} results")
-    print(f"\nShowing {len(concepts)} results:\n")
-    print(json.dumps(results, indent=2))
     
     # Save results to file unless --no-save is specified
     if not args.no_save:
@@ -284,7 +282,11 @@ Examples:
             terminology=args.terminology,
             output_dir=args.output
         )
-        print(f"\n✓ Results saved to: {saved_file}")
+        print(f"✓ Results saved to: {saved_file}")
+    else:
+        # Only print results to terminal when --no-save is used
+        print(f"\nShowing {len(concepts)} results:\n")
+        print(json.dumps(results, indent=2))
 
 
 if __name__ == "__main__":
