@@ -1,0 +1,1169 @@
+Table 2: Selected laboratory tests and conversion factorsa
+Analyte	Specimen	Conventional unit	Conversion factor	SI unit
+Acetaminophen	Serum, plasma	
+  μg/mL	6.614	
+  μmol/L
+Acetoacetate	Serum, plasma	
+  mg/dL	97.95	
+  μmol/L
+Acetone	Serum, plasma	
+  mg/dL	0.172	
+  mmol/L
+Acid phosphatase	Serum	
+  U/L	16.667	
+  nkat/L
+Activated partial thromboplastin time (APTT)	Whole blood	
+  s	1	
+  s
+Adenosine deaminase	Serum	
+  U/L	16.667	
+  nkat/L
+Adrenocorticotropic hormone (ACTH)	Plasma	
+  pg/mL	0.22	
+  pmol/L
+Alanine	Plasma	
+  mg/dL	112.2	
+  μmol/L
+Alanine aminotransferase (ALT)	Serum	
+  U/L	0.0167	
+  μkat/L
+Albumin	Serum	
+  g/dL	10	
+  g/L
+Alcohol dehydrogenase	Serum	
+  U/L	16.667	
+  nkat/L
+Aldolase	Serum	
+  U/L	0.0167	
+  μkat/L
+Aldosterone	Serum, plasma	
+  ng/dL	27.74	
+  pmol/L
+Alkaline phosphatase	Serum	
+  U/L	0.0167	
+  μkat/L
+Alprazolam	Serum, plasma	
+  ng/mL	3.24	
+  nmol/L
+Amikacin	Serum, plasma	
+  μg/mL	1.708	
+  μmol/L
+α-Aminobutyric acid	Plasma	
+  mg/dL	96.97	
+  μmol/L
+δ-Aminolevulinic acid	Serum	
+  μg/dL	0.0763	
+  μmol/L
+Amiodarone	Serum, plasma	
+  μg/mL	1.55	
+  μmol/L
+Amitriptyline	Plasma	
+  ng/mL	3.605	
+  nmol/L
+Ammonia (as nitrogen)	Serum, plasma	
+  μg/dL	0.714	
+  μmol/L
+Amobarbital	Serum	
+  μg/mL	4.42	
+  μmol/L
+Amphetamine	Serum, plasma	
+  ng/mL	7.4	
+  nmol/L
+Amylase	Serum	
+  U/L	0.0167	
+  μkat/L
+Androstenedione	Serum	
+  ng/dL	0.0349	
+  nmol/L
+Angiotensin I	Plasma	
+  pg/mL	0.772	
+  pmol/L
+Angiotensin II	Plasma	
+  pg/mL	0.957	
+  pmol/L
+Angiotensin-converting enzyme	Serum	
+  U/L	16.667	
+  nkat/L
+Anion gap Na+–(Cl- + HCO3-)	Serum, plasma	
+  mEq/L	1	
+  mmol/L
+Antidiuretic hormone (ADH)	Plasma	
+  pg/mL	0.923	
+  pmol/L
+Antithrombin III	Plasma	
+  mg/dL	10	
+  mg/L
+α1-Antitrypsin	Serum	
+  mg/dL	0.184	
+  μmol/L
+Apolipoprotein A-I	Serum	
+  mg/dL	0.01	
+  g/L
+Apolipoprotein B	Serum, plasma	
+  mg/dL	0.01	
+  g/L
+Arginine	Serum	
+  mg/dL	57.4	
+  μmol/L
+Arsenic	Whole blood	
+  μg/L	0.0133	
+  μmol/L
+Ascorbic acid (see Vitamin C)
+Asparagine	Plasma	
+  mg/dL	75.689	
+  μmol/L
+Aspartate aminotransferase (AST)	Serum	
+  U/L	0.0167	
+  μkat/L
+Aspartic acid	Plasma	
+  mg/dL	75.13	
+  μmol/L
+Atrial natriuretic hormone	Plasma	
+  pg/mL	1	
+  ng/L
+Bands (see White blood cell count)
+Base excess	Whole blood	
+  mEq/L	1	
+  mmol/L
+Basophils (see White blood cell count)
+Bicarbonate	Serum	
+  mEq/L	1	
+  mmol/L
+Bile acids (total)	Serum	
+  μg/mL	2.448	
+  μmol/L
+Bilirubin, direct (conjugated)	Serum	
+  mg/dL	17.104	
+  μmol/L
+Bilirubin, total	Serum	
+  mg/dL	17.104	
+  μmol/L
+Biotin	Serum	
+  pg/mL	0.00409	
+  nmol/L
+Bismuth	Whole blood	
+  μg/L	4.785	
+  nmol/L
+Blood gases
+    Carbon dioxide, Pco2	Arterial blood	
+  mm Hg	0.133	
+  kPa
+    pH	Arterial blood	
+   	1	
+   
+    Oxygen, Po2	Arterial blood	
+  mm Hg	0.133	
+  kPa
+Brain-type natriuretic peptide (BNP)	Plasma	
+  pg/mL	1	
+  ng/L
+Bromide (toxic)	Serum	
+  μg/mL	0.0125	
+  mmol/L
+C1 esterase inhibitor	Serum	
+  mg/dL	10	
+  mg/L
+C3 complement	Serum	
+  mg/dL	0.01	
+  g/L
+C4 complement	Serum	
+  mg/dL	0.01	
+  g/L
+Cadmium	Whole blood	
+  μg/L	8.896	
+  nmol/L
+Caffeine	Serum, plasma	
+  μg/mL	5.15	
+  μmol/L
+Calcitonin	Plasma	
+  pg/mL	0.292	
+  pmol/L
+Calcium, ionized	Serum	
+  mg/dL	0.25	
+  mmol/L
+Calcium, total	Serum	
+  mg/dL	0.25	
+  mmol/L
+Cancer antigen (CA) 125	Serum	
+  U/mL	1	
+  kU/L
+Carbamazepine	Serum, plasma	
+  μg/mL	4.233	
+  μmol/L
+Carbon dioxide (total)	Serum, plasma	
+  mEq/L	1	
+  mmol/L
+Carboxyhemoglobin, toxic	Whole blood	
+  %	0.01	
+  Proportion of 1.0
+Carcinoembryonic antigen (CEA)	Serum	
+  ng/mL	1	
+  μg/L
+β-Carotene	Serum	
+  μg/dL	0.01863	
+  μmol/L
+Carotenoids	Serum	
+  μg/dL	0.01863	
+  μmol/L
+Ceruloplasmin	Serum	
+  mg/dL	10	
+  mg/L
+Chloramphenicol	Serum	
+  μg/mL	3.095	
+  μmol/L
+Chlordiazepoxide	Serum, plasma	
+  μg/mL	3.336	
+  μmol/L
+Chloride	Serum, plasma	
+  mEq/L	1	
+  mmol/L
+Chlorpromazine	Plasma	
+  ng/mL	3.136	
+  nmol/L
+Chlorpropamide	Plasma	
+  mg/L	3.61	
+  μmol/L
+Cholecalciferol (see Vitamin D)
+Cholesterol
+Total	Serum, plasma	
+  mg/dL	0.0259	
+  mmol/L
+Cholesterol, high-density (HDL)	Serum, plasma	
+  mg/dL	0.0259	
+  mmol/L
+Cholesterol, low-density (LDL)	Serum, plasma	
+  mg/dL	0.0259	
+  mmol/L
+Cholinesterase	Serum	
+  U/L	1.0	
+  kU/L
+Chorionic gonadotropin (β-hCG) (nonpregnant)	Serum	
+  mIU/mL	1	
+  IU/L
+Chromium	Whole blood	
+  μg/L	19.232	
+  nmol/L
+Citrate	Serum	
+  mg/dL	52.05	
+  μmol/L
+Citrulline	Plasma	
+  mg/dL	57.081	
+  μmol/L
+Clonazepam	Serum	
+  ng/mL	3.167	
+  nmol/L
+Clonidine	Serum, plasma	
+  ng/mL	4.35	
+  nmol/L
+Clozapine	Serum	
+  ng/mL	0.003	
+  μmol/L
+Coagulation factor I	Plasma	
+  g/dL	29.41	
+  μmol/L
+    (Fibrinogen)	Plasma	
+  mg/dL	0.01	
+  g/L
+Coagulation factor II (prothrombin)	Plasma	
+  %	0.01	
+  Proportion of 1.0
+Coagulation factor V	Plasma	
+  %	0.01	
+  Proportion of 1.0
+Coagulation factor VII	Plasma	
+  %	0.01	
+  Proportion of 1.0
+Coagulation factor VIII	Plasma	
+  %	0.01	
+  Proportion of 1.0
+Coagulation factor IX	Plasma	
+  %	0.01	
+  Proportion of 1.0
+Coagulation factor X	Plasma	
+  %	0.01	
+  Proportion of 1.0
+Coagulation factor XI	Plasma	
+  %	0.01	
+  Proportion of 1.0
+Coagulation factor XII	Plasma	
+  %	0.01	
+  Proportion of 1.0
+Cobalt	Serum	
+  μg/L	16.968	
+  nmol/L
+Cocaine (toxic)	Serum	
+  ng/mL	3.297	
+  nmol/L
+Codeine	Serum	
+  ng/mL	3.34	
+  nmol/L
+Coenzyme Q10 (ubiquinone)	Plasma	
+  μg/mL	1	
+  mg/L
+Copper	Serum	
+  μg/dL	0.157	
+  μmol/L
+Coproporphyrin	Urine	
+  μg/24 h	1.527	
+  μmol/d
+Corticotropin	Plasma	
+  pg/mL	0.22	
+  pmol/L
+Cortisol	Serum, plasma	
+  μg/dL	27.588	
+  nmol/L
+Cotinine	Plasma	
+  μg/L	5.675	
+  nmol/L
+C-peptide	Serum	
+  ng/mL	0.331	
+  nmol/L
+C-reactive protein	Serum	
+  mg/dL	10	
+  mg/L
+Creatine	Serum	
+  mg/dL	76.25	
+  μmol/L
+Creatine kinase (CK)	Serum	
+  U/L	0.0167	
+  μkat/L
+Creatine kinase–MB fraction	Serum	
+  ng/mL	1	
+  μg/L
+Creatinine	Serum, plasma	
+  mg/dL	88.4	
+  μmol/L
+Creatinine clearance	Serum, plasma	
+  mL/min/1.73 m2	0.0167	
+  mL/s/m2
+Cyanide (toxic)	Whole blood	
+  μg/mL	38.4	
+  μmol/L
+Cyclic adenosine monophosphate (cAMP)	Plasma	
+  ng/mL	3.04	
+  μmol/L
+Cyclosporine	Serum	
+  ng/mL	0.832	
+  nmol/L
+Cystine	Plasma	
+  mg/dL	41.615	
+  μmol/L
+D-dimer	Plasma	
+  μg/mL	5.476	
+  nmol/L
+Dehydroepiandrosterone (DHEA)	Serum	
+  ng/mL	3.47	
+  nmol/L
+Dehydroepiandrosterone sulfate (DHEA-S)	Serum	
+  μg/dL	0.027	
+  μmol/L
+Deoxycorticosterone	Serum	
+  ng/dL	0.0303	
+  nmol/L
+Desipramine	Serum, plasma	
+  ng/mL	3.754	
+  nmol/L
+Diazepam	Serum, plasma	
+  ng/mL	0.0035	
+  μmol/L
+Digoxin	Plasma	
+  ng/mL	1.281	
+  nmol/L
+Diltiazem	Serum	
+  mg/L	2.412	
+  μmol/L
+Disopyramide	Serum, plasma	
+  μg/mL	2.946	
+  μmol/L
+Dopamine	Plasma	
+  pg/mL	6.528	
+  pmol/L
+Doxepin	Serum, plasma	
+  ng/mL	3.579	
+  nmol/L
+Electrophoresis (protein)
+    Proportion of total protein
+        Albumin	Serum	
+  %	0.01	
+  Proportion of 1.0
+        α1-Globulin	Serum	
+  %	0.01	
+  Proportion of 1.0
+        α2-Globulin	Serum	
+  %	0.01	
+  Proportion of 1.0
+        β-Globulin	Serum	
+  %	0.01	
+  Proportion of 1.0
+        γ-Globulin	Serum	
+  %	0.01	
+  Proportion of 1.0
+    Concentration
+        Albumin	Serum	
+  g/dL	10	
+  g/L
+        α1-Globulin	Serum	
+  g/dL	10	
+  g/L
+        α2-Globulin	Serum	
+  g/dL	10	
+  g/L
+        β-Globulin	Serum	
+  g/dL	10	
+  g/L
+        γ-Globulin	Serum	
+  g/dL	10	
+  g/L
+Eosinophils (see White blood cell count)
+Ephedrine (toxic)	Serum	
+  μg/mL	6.052	
+  μmol/L
+Epinephrine	Plasma	
+  pg/mL	5.459	
+  pmol/L
+Erythrocyte count (see Red blood cell count)
+Erythrocyte sedimentation rate	Whole blood	
+  mm/h	1	
+  mm/h
+Erythropoietin	Serum	
+  mIU/mL	1	
+  IU/L
+Estradiol (E2 )	Serum	
+  pg/mL	3.671	
+  pmol/L
+Estriol (E3 )	Serum	
+  ng/mL	3.467	
+  nmol/L
+Estrogens (total)	Serum	
+  pg/mL	1	
+  ng/L
+Estrone (E1 )	Serum, plasma	
+  pg/mL	3.698	
+  pmol/L
+Ethanol (ethyl alcohol)	Serum, whole blood	
+  mg/dL	0.2171	
+  mmol/L
+Ethchlorvynol (toxic)	Serum, plasma	
+  μg/mL	6.915	
+  μmol/L
+Ethosuximide	Serum	
+  mg/L	7.084	
+  μmol/L
+Ethylene glycol (toxic)	Serum, plasma	
+  mg/dL	0.1611	
+  mmol/L
+Fatty acids (nonesterified)	Serum, plasma	
+  mg/dL	0.0355	
+  mmol/L
+Fecal fat (as stearic acid)	Stool	
+  g/d	1	
+  g/24 h
+Fentanyl	Serum	
+  μg/mL	2.972	
+  μmol/L
+Ferritin	Serum	
+  ng/mL	1	
+  μg/L
+α1-Fetoprotein	Serum	
+  ng/mL	1	
+  μg/L
+Fibrin degradation products	Plasma	
+  μg/mL	1	
+  mg/L
+Fibrinogen	Plasma	
+  mg/dL	0.01	
+  g/L
+Flecainide	Serum, plasma	
+  μg/mL	2.413	
+  μmol/L
+Fluoride	Whole blood	
+  mg/dL	0.5263	
+  mmol/L
+Fluoxetine	Serum	
+  ng/mL	0.00323	
+  μmol/L
+Flurazepam (toxic)	Serum, plasma	
+  μg/mL	2.578	
+  μmol/L
+Folate (folic acid)	Serum	
+  ng/mL	2.266	
+  nmol/L
+Follicle-stimulating hormone (FSH)	Serum, plasma	
+  mIU/mL	1	
+  IU/L
+Fructosamine	Serum	
+  mg/L	5.581	
+  mmol/L
+Fructose	Serum	
+  mg/dL	55.506	
+  μmol/L
+Galactose	Serum, plasma	
+  mg/dL	0.0555	
+  mmol/L
+Gastrin	Serum	
+  pg/mL	0.481	
+  pmol/L
+Gentamicin	Serum	
+  μg/mL	2.09	
+  μmol/L
+Glucagon	Plasma	
+  pg/mL	1	
+  ng/L
+Glucose	Serum	
+  mg/dL	0.0555	
+  mmol/L
+Glucose-6-phosphate dehydrogenase	Whole blood	
+  U/g hemoglobin	0.0167	
+  nkat/g hemoglobin
+Glutamic acid	Plasma	
+  mg/dL	67.967	
+  μmol/L
+Glutamine	Plasma	
+  mg/dL	68.423	
+  μmol/L
+γ-Glutamyltransferase (GGT)	Serum	
+  U/L	0.0167	
+  μkat/L
+Glutethimide	Serum	
+  μg/mL	4.603	
+  μmol/L
+Glycerol (free)	Serum	
+  mg/dL	0.1086	
+  mmol/L
+Glycine	Plasma	
+  mg/dL	133.2	
+  μmol/L
+Gold	Serum	
+  μg/dL	50.77	
+  nmol/L
+Growth hormone (GH)	Serum	
+  ng/mL	1	
+  μg/L
+Haloperidol	Serum, plasma	
+  ng/mL	2.66	
+  nmol/L
+Haptoglobin	Serum	
+  mg/dL	10	
+  mg/L
+Hematocrit	Whole blood	
+  %	0.01	
+  Proportion of 1.0
+Hemoglobin	Whole blood	
+  g/dL	10	
+  g/L
+    Mean corpuscular hemoglobin (MCH)	Whole blood	
+  pg/cell	1	
+  pg/cell
+    Mean corpuscular hemoglobin concentration (MCHC)	Whole blood	
+  g/dL	10	
+  g/L
+    Mean corpuscular volume (MCV)	Whole blood	
+  μm3	1	
+  fL
+Hemoglobin A1c (glycated hemoglobin)	Whole blood	
+  % of total hemoglobin	0.01	
+  Proportion of total hemoglobin
+    Dual report as mmol/mol
+Hemoglobin A2	Whole blood	
+  %	0.01	
+  Proportion of 1.0
+Histamine	Plasma	
+  μg/L	8.997	
+  nmol/L
+Histidine	Plasma	
+  mg/dL	64.45	
+  μmol/L
+Homocysteine	Plasma	
+  mg/L	7.397	
+  μmol/L
+Homovanillic acid	Urine	
+  mg/24 h	5.489	
+  μmol/d
+Hydrocodone	Serum	
+  μg/mL	3.34	
+  μmol/L
+Hydromorphone	Serum	
+  μg/mL	3504	
+  nmol/L
+β-Hydroxybutyric acid	Plasma	
+  mg/dL	96.06	
+  μmol/L
+5-Hydroxyindoleacetic acid (5-HIAA)	Urine	
+  mg/24 h	5.23	
+  μmol/d
+Hydroxyproline	Plasma	
+  mg/dL	76.266	
+  μmol/L
+Ibuprofen	Serum	
+  μg/mL	4.848	
+  μmol/L
+Imipramine	Plasma	
+  ng/mL	3.566	
+  nmol/L
+Immunoglobulin A (IgA)	Serum	
+  mg/dL	0.01	
+  g/L
+Immunoglobulin D (IgD)	Serum	
+  mg/dL	10	
+  mg/L
+Immunoglobulin E (IgE)	Serum	
+  mg/dL	10	
+  mg/L
+Immunoglobulin G (IgG)	Serum	
+  mg/dL	0.01	
+  g/L
+Immunoglobulin M (IgM)	Serum	
+  mg/dL	0.01	
+  g/L
+Insulin	Serum	
+  μIU/mL	6.945	
+  pmol/L
+Insulinlike growth factor	Serum	
+  ng/mL	0.131	
+  nmol/L
+Iodine	Serum	
+  μg/L	7.88	
+  nmol/L
+Iron	Serum	
+  μg/dL	0.179	
+  μmol/L
+Iron-binding capacity	Serum	
+  μg/dL	0.179	
+  μmol/L
+Isoleucine	Plasma	
+  mg/dL	76.236	
+  μmol/L
+Isoniazid	Plasma	
+  μg/mL	7.291	
+  μmol/L
+Isopropanol (toxic)	Serum, plasma	
+  mg/L	0.0166	
+  mmol/L
+Kanamycin	Serum, plasma	
+  μg/mL	2.064	
+  μmol/L
+Ketamine	Serum	
+  μg/mL	4.206	
+  μmol/L
+17-Ketosteroids	Urine	
+  mg/24 h	3.33	
+  μmol/d
+Lactate	Plasma	
+  mg/dL	0.111	
+  mmol/L
+Lactate dehydrogenase (LDH)	Serum	
+  U/L	0.0167	
+  μkat/L
+LDH isoenzymes
+    LD1	Serum	
+  %	0.01	
+  Proportion of 1.0
+    LD2	Serum	
+  %	0.01	
+  Proportion of 1.0
+    LD3	Serum	
+  %	0.01	
+  Proportion of 1.0
+    LD4	Serum	
+  %	0.01	
+  Proportion of 1.0
+    LD5	Serum	
+  %	0.01	
+  Proportion of 1.0
+Lead	Serum	
+  μg/dL	0.0483	
+  μmol/L
+Leucine	Plasma	
+  mg/dL	76.237	
+  μmol/L
+Leukocytes (see White blood cell count)
+Lidocaine	Serum, plasma	
+  μg/mL	4.267	
+  μmol/L
+Lipase	Serum	
+  U/L	0.0167	
+  μkat/L
+Lipoprotein(a) [Lp(a)]	Serum	
+  mg/dL	0.1	
+  mg/L
+Lithium	Serum	
+  mEq/L	1	
+  mmol/L
+Lorazepam	Serum	
+  ng/mL	3.114	
+  nmol/L
+Luteinizing hormone (LH)	Serum, plasma	
+  mIU/mL	1	
+  IU/L
+Lycopene	Serum	
+  mg/L	1.863	
+  μmol/L
+Lymphocytes (see White blood cell count)
+Lysergic acid diethylamide	Serum	
+  μg/mL	3092	
+  nmol/L
+Lysine	Plasma	
+  mg/dL	68.404	
+  μmol/L
+Lysozyme	Serum, plasma	
+  mg/dL	10	
+  mg/L
+Magnesium	Serum	
+  mg/dL	0.4114	
+  mmol/L
+Manganese	Whole blood	
+  μg/L	18.202	
+  nmol/L
+Maprotiline	Plasma	
+  ng/mL	1	
+  μg/L
+Melatonin	Serum	
+  ng/L	4.305	
+  pmol/L
+Meperidine	Serum, plasma	
+  ng/mL	4.043	
+  nmol/L
+Mercury	Serum	
+  μg/L	4.985	
+  nmol/L
+Metanephrine (total)	Urine	
+  mg/24 h	5.07	
+  μmol/d
+Metformin	Serum	
+  μg/mL	7.742	
+  μmol/L
+Methadone	Serum, plasma	
+  ng/mL	0.00323	
+  μmol/L
+Methamphetamine	Serum	
+  μg/mL	6.7	
+  μmol/L
+Methanol	Plasma	
+  μg/mL	0.0312	
+  mmol/L
+Methaqualone	Serum, plasma	
+  μg/mL	3.995	
+  μmol/L
+Methemoglobin	Whole blood	
+  g/dL	155	
+  μmol/L
+Methemoglobin	Whole blood	
+  % of total hemoglobin	0.01	
+  Proportion of total hemoglobin
+Methicillin	Serum	
+  mg/L	2.636	
+  μmol/L
+Methionine	Plasma	
+  mg/dL	67.02	
+  μmol/L
+Methotrexate	Serum, plasma	
+  mg/L	2200	
+  nmol/L
+Methyldopa	Plasma	
+  μg/mL	4.735	
+  μmol/L
+Metoprolol	Serum, plasma	
+  ng/mL	3.74	
+  nmol/L
+β 2 -Microglobulin	Serum	
+  mg/L	1	
+  mg/L
+Morphine	Serum, plasma	
+  ng/mL	3.504	
+  nmol/L
+Myoglobin	Serum	
+  μg/L	0.05814	
+  nmol/L
+Naproxen	Serum	
+  μg/mL	4.343	
+  μmol/L
+Niacin (nicotinic acid)	Urine	
+  mg/24 h	8.123	
+  μmol/d
+Nickel	Whole blood	
+  μg/L	17.033	
+  nmol/L
+Nicotine	Plasma	
+  mg/L	6.164	
+  μmol/L
+Nitrogen (nonprotein)	Serum	
+  mg/dL	0.714	
+  mmol/L
+Nitroprusside (as thiocyanate)		
+  μg/mL	17.2	
+  μmol/L
+Norepinephrine	Plasma	
+  pg/mL	5.911	
+  pmol/L
+Nortriptyline	Serum, plasma	
+  ng/mL	3.797	
+  nmol/L
+Ornithine	Plasma	
+  mg/dL	75.666	
+  μmol/L
+Osmolality	Serum	
+  mOsm/kg	1	
+  mmol/kg
+Osteocalcin	Serum	
+  ng/mL	1	
+  μg/L
+Oxalate	Serum	
+  mg/mL	11.107	
+  μmol/L
+Oxazepam	Serum, plasma	
+  μg/mL	3.487	
+  μmol/L
+Oxycodone	Serum	
+  ng/mL	3.171	
+  nmol/L
+Oxygen, partial pressure (Po 2 )	Arterial blood	
+  mm Hg	0.133	
+  kPa
+Paraquat	Whole blood	
+  μg/mL	5.369	
+  μmol/L
+Parathyroid hormone	Serum	
+  pg/mL	1	
+  ng/L
+Pentobarbital	Serum, plasma	
+  μg/mL	4.419	
+  μmol/L
+Pepsinogen	Serum	
+  ng/mL	1	
+  μg/L
+pH (see Blood gases)
+Phencyclidine (toxic)	Serum, plasma	
+  ng/mL	4.109	
+  nmol/L
+Phenobarbital	Serum, plasma	
+  μg/mL	4.31	
+  μmol/L
+Phenylalanine	Plasma	
+  mg/dL	60.544	
+  μmol/L
+Phenylpropanolamine	Serum	
+  μg/mL	6613	
+  nmol/L
+Phenytoin	Serum, plasma	
+  mg/L	3.968	
+  μmol/L
+Phosphorus (inorganic)	Serum	
+  mg/dL	0.323	
+  mmol/L
+Placental lactogen	Serum	
+  μg/mL	46.296	
+  nmol/L
+Plasminogen (antigenic)	Plasma	
+  mg/dL	0.113	
+  μmol/L
+Plasminogen activator inhibitor	Plasma	
+  ng/mL	22.19	
+  pmol/L
+Platelet count (thrombocytes)	Whole blood	
+  ×103/μL	1	
+  ×109/L
+Potassium	Serum	
+  mEq/L	1	
+  mmol/L
+Prealbumin	Serum	
+  mg/dL	10	
+  mg/L
+Pregnanediol	Urine	
+  mg/24 h	3.12	
+  μmol/d
+Pregnanetriol	Urine	
+  mg/24 h	2.972	
+  μmol/d
+Primidone	Serum, plasma	
+  μg/mL	4.582	
+  μmol/L
+Procainamide	Serum, plasma	
+  μg/mL	4.25	
+  μmol/L
+Progesterone	Serum	
+  ng/mL	3.18	
+  nmol/L
+Prolactin	Serum	
+  ng/mL	1	
+  μg/L
+Proline	Plasma	
+  mg/dL	86.858	
+  μmol/L
+Propoxyphene	Plasma	
+  μg/mL	2.946	
+  μmol/L
+Propranolol	Serum	
+  ng/mL	3.856	
+  nmol/L
+Prostate-specific antigen	Serum	
+  ng/mL	1	
+  μg/L
+Protein (total)	Serum	
+  g/dL	10	
+  g/L
+Prothrombin time (PT)	Plasma	
+  s	1	
+  s
+Protoporphyrin	Red blood cells	
+  μg/dL	0.0178	
+  μmol/L
+Protriptyline	Serum, plasma	
+  μg/dL	3.787	
+  nmol/L
+Pyridoxine (see Vitamin B6)
+Pyruvate	Plasma	
+  mg/dL	113.56	
+  μmol/L
+Quinidine	Serum	
+  μg/mL	3.082	
+  μmol/L
+Red blood cell count	Whole blood	
+  ×106/μL	1	
+  ×1012/L
+Renin	Plasma	
+  pg/mL	0.0237	
+  pmol/L
+Reticulocyte count	Whole blood	
+  ×103/μL	1	
+  ×109/L
+Reticulocyte count	Whole blood	
+  % of red blood cells	0.01	
+  Proportion of red blood cells
+Retinol (see Vitamin A)
+Riboflavin (see Vitamin B2)
+Rifampin	Serum	
+  mg/L	1.215	
+  μmol/L
+Salicylates	Serum, plasma	
+  μg/mL	7.24	
+  μmol/L
+Selenium	Serum, plasma	
+  μg/L	0.0127	
+  μmol/L
+Serine	Plasma	
+  mg/dL	95.156	
+  μmol/L
+Serotonin (5-hydroxytryptamine)	Whole blood	
+  ng/mL	0.00568	
+  μmol/L
+Sex hormone-binding globulin	Serum	
+  μg/mL	8.896	
+  nmol/L
+Sodium	Serum	
+  mEq/L	1	
+  mmol/L
+Somatomedin C (insulinlike growth factor)	Serum	
+  ng/mL	0.131	
+  nmol/L
+Somatostatin	Plasma	
+  pg/mL	0.611	
+  pmol/L
+Streptomycin	Serum	
+  mg/L	1.719	
+  μmol/L
+Strychnine	Whole blood	
+  mg/L	2.99	
+  μmol/L
+Substance P	Plasma	
+  pg/mL	0.742	
+  pmol/L
+Sulfate	Serum	
+  mg/L	10.41	
+  μmol/L
+Sulfmethemoglobin	Whole blood	
+  % of total hemoglobin	0.01	
+  Proportion of total hemoglobin
+Taurine	Plasma	
+  mg/dL	79.91	
+  μmol/L
+Testosterone	Serum	
+  ng/dL	0.0347	
+  nmol/L
+Tetrahydrocannabinol	Serum	
+  μg/mL	3.18	
+  μmol/L
+Theophylline	Serum, plasma	
+  μg/mL	5.55	
+  μmol/L
+Thiamine (see Vitamin B1 )
+Thiopental	Serum, plasma	
+  μg/mL	4.144	
+  μmol/L
+Thioridazine	Serum, plasma	
+  μg/mL	2.699	
+  μmol/L
+Threonine	Plasma	
+  mg/dL	84	
+  μmol/L
+Thrombin time	Plasma	
+  s	1	
+  s
+Thrombocytes (see Platelet count)
+Thyroglobulin	Serum	
+  ng/mL	1	
+  μg/L
+Thyrotropin	Serum	
+  mIU/L	1	
+  mIU/L
+Thyroxine, free (FT 4 )	Serum	
+  ng/dL	12.871	
+  pmol/L
+Thyroxine, total (T 4 )	Serum	
+  μg/dL	12.871	
+  nmol/L
+Thyroxine-binding globulin	Serum	
+  μg/mL	17.094	
+  nmol/L
+Tissue plasminogen activator	Plasma	
+  IU/mL	1000	
+  IU/L
+Tobramycin	Serum, plasma	
+  μg/mL	2.139	
+  μmol/L
+Tocainide	Serum	
+  μg/mL	5.201	
+  μmol/L
+α-Tocopherol (see Vitamin E)
+Tolbutamide	Serum	
+  μg/mL	3.7	
+  μmol/L
+Transferrin	Serum	
+  mg/dL	0.123	
+  μmol/L
+Triglycerides	Serum	
+  mg/dL	0.0113	
+  mmol/L
+Triiodothyronine, free (FT3)	Serum	
+  pg/dL	0.0154	
+  pmol/L
+Triiodothyronine, total (T3)	Serum	
+  ng/dL	0.0154	
+  nmol/L
+Troponin I	Serum	
+  ng/mL	1	
+  g/L
+Troponin T	Serum	
+  ng/mL	1	
+  μg/L
+High-sensitivity troponin T	Serum	
+  ng/L	0.001	
+  μg/L
+Tryptophan	Plasma	
+  mg/dL	48.967	
+  μmol/L
+Tyrosine	Plasma	
+  mg/dL	55.19	
+  μmol/L
+Urea nitrogen	Serum	
+  mg/dL	0.357	
+  mmol/L
+Uric acid	Serum	
+  mg/dL	0.0595	
+  mmol/L
+Urobilinogen	Urine	
+  mg/24 h	1.7	
+  μmol/d
+Valine	Plasma	
+  mg/dL	85.361	
+  μmol/L
+Valproic acid	Serum, plasma	
+  μg/mL	6.934	
+  μmol/L
+Vancomycin	Serum, plasma	
+  μg/mL	0.69	
+  μmol/L
+Vanillylmandelic acid (VMA)	Urine	
+  mg/24 h	5.046	
+  μmol/d
+Vasoactive intestinal polypeptide	Plasma	
+  pg/mL	0.296	
+  pmol/L
+Vasopressin	Plasma	
+  pg/mL	0.923	
+  pmol/L
+Verapamil	Serum, Plasma	
+  ng/mL	2.2	
+  nmol/L
+Vitamin A (retinol)	Serum	
+  μg/dL	0.0349	
+  μmol/L
+Vitamin B1 (thiamine)	Serum	
+  μg/dL	29.6	
+  nmol/L
+Vitamin B2 (riboflavin)	Serum	
+  μg/dL	26.6	
+  nmol/L
+Vitamin B3	Whole blood	
+  μg/mL	4.56	
+  μmol/L
+Vitamin B6 (pyridoxine)	Plasma	
+  ng/mL	4.046	
+  nmol/L
+Vitamin B12	Serum	
+  pg/mL	0.7378	
+  pmol/L
+Vitamin C (ascorbic acid)	Serum	
+  mg/dL	56.78	
+  μmol/L
+Vitamin D (1,25 dihydroxyvitamin D)	Serum	
+  pg/mL	2.4	
+  pmol/L
+Vitamin D (25-hydroxyvitamin D)	Plasma	
+  ng/mL	2.496	
+  nmol/L
+Vitamin E (α-tocopherol)	Serum	
+  μg/mL	2.322	
+  μmol/L
+Vitamin K	Serum	
+  ng/mL	2.22	
+  nmol/L
+Warfarin	Serum, plasma	
+  μg/mL	3.247	
+  μmol/L
+White blood cell count	Whole blood	
+  /μL	0.001	
+  ×109/L
+    Differential count
+        Neutrophils-segmented	Whole blood	
+  /μL	0.001	
+  ×109/L
+        Neutrophils-bands	Whole blood	
+  /μL	0.001	
+  ×109/L
+        Lymphocytes	Whole blood	
+  /μL	0.001	
+  ×109/L
+        Monocytes	Whole blood	
+  /μL	0.001	
+  ×109/L
+        Eosinophils	Whole blood	
+  /μL	0.001	
+  ×109/L
+        Basophils	Whole blood	
+  /μL	0.001	
+  ×109/L
+    Differential count (number fraction)
+        Neutrophils-segmented	Whole blood	
+  %	0.01	
+  Proportion of 1.0
+        Neutrophils-bands	Whole blood	
+  %	0.01	
+  Proportion of 1.0
+        Lymphocytes	Whole blood	
+  %	0.01	
+  Proportion of 1.0
+        Monocytes	Whole blood	
+  %	0.01	
+  Proportion of 1.0
+        Eosinophils	Whole blood	
+  %	0.01	
+  Proportion of 1.0
+        Basophils	Whole blood	
+  %	0.01	
+  Proportion of 1.0
+Zidovudine	Serum, plasma	
+  μg/mL	3.7	
+  μmol/L
+Zinc	Serum	
+  μg/dL	0.153	
+  μmol/L

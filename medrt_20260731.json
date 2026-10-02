@@ -1,0 +1,171 @@
+{
+  "total": 3,
+  "timeTaken": 33,
+  "parameters": {
+    "term": "folate",
+    "type": "contains",
+    "include": "full",
+    "fromRecord": 0,
+    "pageSize": 10,
+    "terminology": [
+      "medrt"
+    ]
+  },
+  "concepts": [
+    {
+      "code": "N0000178369",
+      "name": "Folate Analog",
+      "terminology": "medrt",
+      "version": "2026.07.06",
+      "conceptStatus": "DEFAULT",
+      "leaf": true,
+      "active": true,
+      "synonyms": [
+        {
+          "name": "Folate Analog [EPC]",
+          "type": "Concept_Name",
+          "typeCode": "Concept_Name"
+        },
+        {
+          "name": "Folate Analog",
+          "type": "Preferred_Term",
+          "typeCode": "Preferred_Term"
+        },
+        {
+          "name": "Folate Analogue",
+          "type": "Synonym",
+          "typeCode": "Synonym"
+        }
+      ],
+      "properties": [
+        {
+          "code": "CTY",
+          "type": "CTY",
+          "value": "EPC"
+        },
+        {
+          "code": "NUI",
+          "type": "NUI",
+          "value": "N0000178369"
+        },
+        {
+          "code": "Status",
+          "type": "Status",
+          "value": "ACTIVE"
+        }
+      ],
+      "parents": [
+        {
+          "code": "N0000175429",
+          "name": "Antidote"
+        }
+      ]
+    },
+    {
+      "code": "N0000175584",
+      "name": "Folate Analog Metabolic Inhibitor",
+      "terminology": "medrt",
+      "version": "2026.07.06",
+      "conceptStatus": "DEFAULT",
+      "leaf": true,
+      "active": true,
+      "synonyms": [
+        {
+          "name": "Folate Analog Metabolic Inhibitor [EPC]",
+          "type": "Concept_Name",
+          "typeCode": "Concept_Name"
+        },
+        {
+          "name": "Folate Analog Metabolic Inhibitor",
+          "type": "Preferred_Term",
+          "typeCode": "Preferred_Term"
+        },
+        {
+          "name": "Folate Analogue Metabolic Inhibitor",
+          "type": "Synonym",
+          "typeCode": "Synonym"
+        }
+      ],
+      "properties": [
+        {
+          "code": "CTY",
+          "type": "CTY",
+          "value": "EPC"
+        },
+        {
+          "code": "NUI",
+          "type": "NUI",
+          "value": "N0000175584"
+        },
+        {
+          "code": "Status",
+          "type": "Status",
+          "value": "ACTIVE"
+        }
+      ],
+      "parents": [
+        {
+          "code": "N0000193907",
+          "name": "Nucleic Acid Synthesis Inhibitor"
+        }
+      ],
+      "roles": [
+        {
+          "code": "has_MoA",
+          "type": "has_MoA",
+          "relatedCode": "N0000000111",
+          "relatedName": "Folic Acid Metabolism Inhibitors"
+        }
+      ]
+    },
+    {
+      "code": "N0000009935",
+      "name": "Decreased Folic Acid Modification",
+      "terminology": "medrt",
+      "version": "2026.07.06",
+      "conceptStatus": "DEFAULT",
+      "leaf": true,
+      "active": true,
+      "synonyms": [
+        {
+          "name": "Decreased Folic Acid Modification [PE]",
+          "type": "Concept_Name",
+          "typeCode": "Concept_Name"
+        },
+        {
+          "name": "Decreased Folic Acid Modification",
+          "type": "Preferred_Term",
+          "typeCode": "Preferred_Term"
+        },
+        {
+          "name": "Decreased Folate Modification",
+          "type": "Synonym",
+          "typeCode": "Synonym"
+        }
+      ],
+      "properties": [
+        {
+          "code": "CTY",
+          "type": "CTY",
+          "value": "PE"
+        },
+        {
+          "code": "NUI",
+          "type": "NUI",
+          "value": "N0000009935"
+        },
+        {
+          "code": "Status",
+          "type": "Status",
+          "value": "ACTIVE"
+        }
+      ],
+      "parents": [
+        {
+          "code": "N0000009934",
+          "name": "Decreased Vitamin Uptake and Modification"
+        }
+      ]
+    }
+  ]
+}

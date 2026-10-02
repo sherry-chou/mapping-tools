@@ -1,0 +1,487 @@
+{
+    "protocolSection": {
+        "identificationModule": {
+            "nctId": "NCT06102525",
+            "orgStudyIdInfo": {
+                "id": "RZ-001-201"
+            },
+            "organization": {
+                "fullName": "Rznomics, Inc.",
+                "class": "OTHER"
+            },
+            "briefTitle": "A Study to Evaluate the Safety, Tolerability and Efficacy of RZ-001 With Valganciclovir (VGCV) in Subjects With Glioblastoma",
+            "officialTitle": "A Phase 1/2a, Open-label, Multicenter, Dose Escalation and Dose Expansion Study Evaluating the Safety, Tolerability, and Efficacy of RZ-001 in Combination With Valganciclovir in Subjects With Glioblastoma"
+        },
+        "statusModule": {
+            "statusVerifiedDate": "2025-08",
+            "overallStatus": "RECRUITING",
+            "expandedAccessInfo": {
+                "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+                "date": "2024-10-08",
+                "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+                "date": "2029-03",
+                "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+                "date": "2029-05",
+                "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2023-06-23",
+            "studyFirstSubmitQcDate": "2023-10-22",
+            "studyFirstPostDateStruct": {
+                "date": "2023-10-26",
+                "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-08-29",
+            "lastUpdatePostDateStruct": {
+                "date": "2025-09-05",
+                "type": "ACTUAL"
+            }
+        },
+        "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+                "type": "SPONSOR"
+            },
+            "leadSponsor": {
+                "name": "Rznomics, Inc.",
+                "class": "OTHER"
+            }
+        },
+        "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": true,
+            "isFdaRegulatedDevice": false,
+            "isUsExport": true
+        },
+        "descriptionModule": {
+            "briefSummary": "This is a Phase 1/2a, open-label study to evaluate the safety, tolerability, immunogenicity, and preliminary clinical activity of RZ-001 administered in combination with VGCV in subjects with hTERT-positive GBM.",
+            "detailedDescription": "The study consists of 2 parts: a dose-escalation part (Part 1) and a dose-expansion part (Part 2).\n\nPart 1 consists of dose escalation exploring MTD/RP2D for intratumoral (IT) injection.\n\nPart 2 will consist of dose expansion exploring clinical activity for the optimal fixed dose based on the results of Part 1."
+        },
+        "conditionsModule": {
+            "conditions": [
+                "Glioblastoma"
+            ]
+        },
+        "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+                "PHASE1",
+                "PHASE2"
+            ],
+            "designInfo": {
+                "allocation": "NON_RANDOMIZED",
+                "interventionModel": "SEQUENTIAL",
+                "primaryPurpose": "TREATMENT",
+                "maskingInfo": {
+                    "masking": "NONE"
+                }
+            },
+            "enrollmentInfo": {
+                "count": 43,
+                "type": "ESTIMATED"
+            }
+        },
+        "armsInterventionsModule": {
+            "armGroups": [
+                {
+                    "label": "Part 1 Cohort 1",
+                    "type": "EXPERIMENTAL",
+                    "description": "RZ-001 Dose 1 and VGCV",
+                    "interventionNames": [
+                        "Drug: RZ-001",
+                        "Combination Product: VGCV"
+                    ]
+                },
+                {
+                    "label": "Part 1 Cohort 2",
+                    "type": "EXPERIMENTAL",
+                    "description": "RZ-001 Dose 2 and VGCV",
+                    "interventionNames": [
+                        "Drug: RZ-001",
+                        "Combination Product: VGCV"
+                    ]
+                },
+                {
+                    "label": "Part 1 Cohort 3",
+                    "type": "EXPERIMENTAL",
+                    "description": "RZ-001 Dose 3 and VGCV",
+                    "interventionNames": [
+                        "Drug: RZ-001",
+                        "Combination Product: VGCV"
+                    ]
+                },
+                {
+                    "label": "Part 1 Cohort 4",
+                    "type": "EXPERIMENTAL",
+                    "description": "RZ-001 Dose 4 and VGCV",
+                    "interventionNames": [
+                        "Drug: RZ-001",
+                        "Combination Product: VGCV"
+                    ]
+                },
+                {
+                    "label": "Part 1 Cohort 5",
+                    "type": "EXPERIMENTAL",
+                    "description": "RZ-001 Dose 5 and VGCV",
+                    "interventionNames": [
+                        "Drug: RZ-001",
+                        "Combination Product: VGCV"
+                    ]
+                },
+                {
+                    "label": "Part 2",
+                    "type": "EXPERIMENTAL",
+                    "description": "RZ-001 Dose 6 and VGCV",
+                    "interventionNames": [
+                        "Drug: RZ-001",
+                        "Combination Product: VGCV"
+                    ]
+                }
+            ],
+            "interventions": [
+                {
+                    "type": "DRUG",
+                    "name": "RZ-001",
+                    "description": "Recombinant adenovirus harboring the modified ribozyme construct with HSV-tk as a therapeutic transgene",
+                    "armGroupLabels": [
+                        "Part 1 Cohort 1",
+                        "Part 1 Cohort 2",
+                        "Part 1 Cohort 3",
+                        "Part 1 Cohort 4",
+                        "Part 1 Cohort 5",
+                        "Part 2"
+                    ],
+                    "otherNames": [
+                        "Ad-ECRT-122T"
+                    ]
+                },
+                {
+                    "type": "COMBINATION_PRODUCT",
+                    "name": "VGCV",
+                    "description": "VGCV, used in a subject after RZ-001 administration, is a nucleoside analog that is metabolized by HSV-tk and other cellular kinases to form the cytotoxic nucleotide analog ganciclovir triphosphate. An approved oral VGCV will be used in the proposed clinical study of RZ-001.",
+                    "armGroupLabels": [
+                        "Part 1 Cohort 1",
+                        "Part 1 Cohort 2",
+                        "Part 1 Cohort 3",
+                        "Part 1 Cohort 4",
+                        "Part 1 Cohort 5",
+                        "Part 2"
+                    ],
+                    "otherNames": [
+                        "Valganciclovir"
+                    ]
+                }
+            ]
+        },
+        "outcomesModule": {
+            "primaryOutcomes": [
+                {
+                    "measure": "Number of dose limiting toxicities (DLTs)",
+                    "timeFrame": "Day 1 to Day 28"
+                },
+                {
+                    "measure": "Maximum tolerated dose (MTD) or maximum administered dose (MAD) dose(MAD) and select the recommended Phase 2 dose (RP2D) of RZ-001 in combination with VGCV",
+                    "timeFrame": "Day 1 to Day 28"
+                },
+                {
+                    "measure": "Number of participants with treatment-related adverse events as assessed by NCI-CTCAE",
+                    "description": "Adverse events (AEs) as characterized by type, number, severity (as graded by National Cancer Institute Common Terminology Criteria for Adverse Events \\[NCI-CTCAE\\]), timing, seriousness, and relationship to RZ-001",
+                    "timeFrame": "Day 1 to Day 28"
+                },
+                {
+                    "measure": "Number of participants with significant laboratory abnormalities as assessed by NCI-CTCAE",
+                    "description": "Clinically significant laboratory abnormalities as characterized by type, frequency, severity (as graded by NCI-CTCAE), timing, and relationship to RZ-001",
+                    "timeFrame": "Day 1 to Day 28"
+                },
+                {
+                    "measure": "Overall survival (OS)",
+                    "timeFrame": "Day 1 to Day 15"
+                }
+            ],
+            "secondaryOutcomes": [
+                {
+                    "measure": "Change in concentration of serum vascular endothelial growth factor (VEGF)",
+                    "timeFrame": "Day 1 to Day 28"
+                },
+                {
+                    "measure": "Change in concentration of serum anti-adenovirus antibody",
+                    "timeFrame": "Day 1 to Day 28"
+                },
+                {
+                    "measure": "Overall response rate (ORR)",
+                    "timeFrame": "Day 1 to Day 15"
+                },
+                {
+                    "measure": "Duration of response (DOR)",
+                    "timeFrame": "Day 1 to Day 15"
+                },
+                {
+                    "measure": "Progression-free survival (PFS) per modified Response Assessment for Neuro-Oncology (mRANO)",
+                    "timeFrame": "Day 1 to Day 15"
+                },
+                {
+                    "measure": "Overall survival (OS)",
+                    "timeFrame": "Day 1 to Day 15"
+                },
+                {
+                    "measure": "Neurologic function assessment using the Neurologic Assessment in Neuro-Oncology (NANO) scale ranging from 0 to 3 in each assessment domain",
+                    "timeFrame": "Day 1 to Day 15"
+                }
+            ],
+            "otherOutcomes": [
+                {
+                    "measure": "Concentration of adenovirus DNA in Plasma at specified timepoints",
+                    "timeFrame": "Day 1 to Day 28"
+                },
+                {
+                    "measure": "Change in concentration of serum anti-adenovirus antibody",
+                    "timeFrame": "Day 1 to Day 28"
+                },
+                {
+                    "measure": "Change in concentration of serum cytokines",
+                    "description": "Serum cytokines including interleukins 1 (IL-1), IL-6, IL-10, IL-27, interferon gamma (IFN-γ), tumor necrosis factor alpha (TNF-α)",
+                    "timeFrame": "Day 1 to Day 28"
+                },
+                {
+                    "measure": "Concentration of biomarker in peripheral blood",
+                    "description": "Activation of immune cell subsets (including but not limited to cluster of differentiation 3 \\[CD3\\], CD4, CD8, B cell, natural killer \\[NK\\] cell)",
+                    "timeFrame": "Day 1 to Day 28"
+                },
+                {
+                    "measure": "Concentration of biomarker in fresh tumor biopsy tissue",
+                    "description": "Tumor-related RNA and T cell infiltration and activation",
+                    "timeFrame": "Day 1 to Day 28"
+                }
+            ]
+        },
+        "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult males and females\n* Histologically-confirmed grade 4 astrocytoma, GBM, per The 2021 WHO Classification of CNS Tumors.\n* hTERT positive expression confirmed during the screening period\n* ECOG score of ≤ 2\n* KPS ≥ 60\n* Life expectancy ≥ 3 months\n\nExclusion Criteria:\n\n* Diagnosis of other malignant tumors within 5 years prior to RZ-001 administration.\n* Have extracranial metastases of the tumor cells\n* Current or history of HIV positive\n* Not suitable for inclusion judged by the investigator",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+                "ADULT",
+                "OLDER_ADULT"
+            ]
+        },
+        "contactsLocationsModule": {
+            "centralContacts": [
+                {
+                    "name": "Rznomics Inc.",
+                    "role": "CONTACT",
+                    "phone": "+82317068730",
+                    "email": "rznomics@rznomics.com"
+                }
+            ],
+            "locations": [
+                {
+                    "facility": "The Catholic University of Korea, Incheon St. Mary's Hospital",
+                    "status": "RECRUITING",
+                    "city": "Incheon",
+                    "zip": "21431",
+                    "country": "South Korea",
+                    "contacts": [
+                        {
+                            "name": "The Catholic University of Korea, Incheon St. Mary's Hospital",
+                            "role": "CONTACT"
+                        }
+                    ],
+                    "geoPoint": {
+                        "lat": 37.45646,
+                        "lon": 126.70515
+                    }
+                },
+                {
+                    "facility": "Gachon University Gil Medical Center",
+                    "status": "RECRUITING",
+                    "city": "Incheon",
+                    "zip": "21565",
+                    "country": "South Korea",
+                    "contacts": [
+                        {
+                            "name": "Gachon University Gil Medical Center",
+                            "role": "CONTACT"
+                        }
+                    ],
+                    "geoPoint": {
+                        "lat": 37.45646,
+                        "lon": 126.70515
+                    }
+                },
+                {
+                    "facility": "Seoul National University Bundang Hospital",
+                    "status": "RECRUITING",
+                    "city": "Seongnam-si",
+                    "zip": "13620",
+                    "country": "South Korea",
+                    "contacts": [
+                        {
+                            "name": "Seoul National University Bundang Hospital",
+                            "role": "CONTACT"
+                        }
+                    ],
+                    "geoPoint": {
+                        "lat": 37.43861,
+                        "lon": 127.13778
+                    }
+                },
+                {
+                    "facility": "Severance Hospital, Yonsei University Health System",
+                    "status": "RECRUITING",
+                    "city": "Seoul",
+                    "zip": "03722",
+                    "country": "South Korea",
+                    "contacts": [
+                        {
+                            "name": "Severance Hospital, Yonsei University Health System",
+                            "role": "CONTACT"
+                        }
+                    ],
+                    "geoPoint": {
+                        "lat": 37.566,
+                        "lon": 126.9784
+                    }
+                },
+                {
+                    "facility": "Asan Medical Center",
+                    "status": "RECRUITING",
+                    "city": "Seoul",
+                    "zip": "05505",
+                    "country": "South Korea",
+                    "contacts": [
+                        {
+                            "name": "Asan Medical Center",
+                            "role": "CONTACT"
+                        }
+                    ],
+                    "geoPoint": {
+                        "lat": 37.566,
+                        "lon": 126.9784
+                    }
+                },
+                {
+                    "facility": "Samsung Medical Center",
+                    "status": "RECRUITING",
+                    "city": "Seoul",
+                    "zip": "06351",
+                    "country": "South Korea",
+                    "contacts": [
+                        {
+                            "name": "Samsung Medical Center",
+                            "role": "CONTACT"
+                        }
+                    ],
+                    "geoPoint": {
+                        "lat": 37.566,
+                        "lon": 126.9784
+                    }
+                }
+            ]
+        },
+        "ipdSharingStatementModule": {
+            "ipdSharing": "NO"
+        }
+    },
+    "derivedSection": {
+        "miscInfoModule": {
+            "versionHolder": "2026-07-28"
+        },
+        "conditionBrowseModule": {
+            "meshes": [
+                {
+                    "id": "D005909",
+                    "term": "Glioblastoma"
+                }
+            ],
+            "ancestors": [
+                {
+                    "id": "D001254",
+                    "term": "Astrocytoma"
+                },
+                {
+                    "id": "D005910",
+                    "term": "Glioma"
+                },
+                {
+                    "id": "D018302",
+                    "term": "Neoplasms, Neuroepithelial"
+                },
+                {
+                    "id": "D017599",
+                    "term": "Neuroectodermal Tumors"
+                },
+                {
+                    "id": "D009373",
+                    "term": "Neoplasms, Germ Cell and Embryonal"
+                },
+                {
+                    "id": "D009370",
+                    "term": "Neoplasms by Histologic Type"
+                },
+                {
+                    "id": "D009369",
+                    "term": "Neoplasms"
+                },
+                {
+                    "id": "D009375",
+                    "term": "Neoplasms, Glandular and Epithelial"
+                },
+                {
+                    "id": "D009380",
+                    "term": "Neoplasms, Nerve Tissue"
+                }
+            ]
+        },
+        "interventionBrowseModule": {
+            "meshes": [
+                {
+                    "id": "D000077562",
+                    "term": "Valganciclovir"
+                }
+            ],
+            "ancestors": [
+                {
+                    "id": "D015774",
+                    "term": "Ganciclovir"
+                },
+                {
+                    "id": "D000212",
+                    "term": "Acyclovir"
+                },
+                {
+                    "id": "D006147",
+                    "term": "Guanine"
+                },
+                {
+                    "id": "D007042",
+                    "term": "Hypoxanthines"
+                },
+                {
+                    "id": "D011688",
+                    "term": "Purinones"
+                },
+                {
+                    "id": "D011687",
+                    "term": "Purines"
+                },
+                {
+                    "id": "D006574",
+                    "term": "Heterocyclic Compounds, 2-Ring"
+                },
+                {
+                    "id": "D000072471",
+                    "term": "Heterocyclic Compounds, Fused-Ring"
+                },
+                {
+                    "id": "D006571",
+                    "term": "Heterocyclic Compounds"
+                }
+            ]
+        }
+    },
+    "hasResults": false
+}
